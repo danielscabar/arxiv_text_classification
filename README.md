@@ -1,7 +1,7 @@
 # Classificador de artigos científicos de Astrofísica
 Projeto do segundo semestre da disciplina ECM514 - Ciência de Dados.
 > Autores: Daniel de Souza Scabar e Marcello Beer
-
+![Project Description](https://github.com/danielscabar/arxiv_text_classification/blob/main/projeto_segundo_semestre.png)
 # Descrição
 
 # Metodologia
