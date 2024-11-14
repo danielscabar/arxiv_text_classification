@@ -3,7 +3,7 @@ Projeto do segundo semestre da disciplina ECM514 - Ciência de Dados.
 > Autores: Daniel de Souza Scabar e Marcello Beer
 ![Project Description](https://github.com/danielscabar/arxiv_text_classification/blob/main/projeto_segundo_semestre.png)
 # Apresentação
-![Project Video](https://www.youtube.com/watch?v=bta265KNGwc)
+https://www.youtube.com/watch?v=bta265KNGwc
 # Metodologia
 Esse projeto foi desenvolvido utilizando dados mantidos no repositório ArXiv mantido pela Cornell University extraidos através de uma API pública.
 
